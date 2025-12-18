@@ -3,6 +3,10 @@
 A **role-based Library Management System** built using **Django** that allows staff to manage books and users to issue/return books safely.  
 The project focuses on **inventory safety, clean UI, role-based access, and proper transaction tracking**.
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Django](https://img.shields.io/badge/Django-4.0+-green.svg)
+![HTML](https://img.shields.io/badge/HTML-4.0+-orange.svg)
+
 ---
 
 ## 🚀 Features
